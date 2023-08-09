@@ -30,4 +30,5 @@ The dataset (in csv) was extracted and loaded into the Power BI desktop. This wa
 The transformed dateset was cleaned by removing the null (empty) values so that data integrity was ensured to give a robust analysis.
 
 Dirty student Data                 |  Cleaned student Data
-:---------------------------------:|:--------------------------:
+:---------------------------------:|:---------------------------------------:
+![](Dirty_Student Data View)       |  ![](Cleaned_student data View.png)
