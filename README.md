@@ -21,9 +21,13 @@ The following Power BI was incoporated:
 2. Monthly graduates - by state
 3. Monthly credits earned - by state
 4. Any other insights in the data you think might be useful.
-## Data Extraction and Cleaning
-The dataset (in csv) was extracted and loaded into the Power BI desktop. This was further transformed and cleaned by removing the null (empty) entity present in the dataset, so that data integrity was ensured to give a robust analysis.
+## Data Extraction 
+The dataset (in csv) was extracted and loaded into the Power BI desktop. This was further transformed to view the anomalies and view missing values in the dataset 
 
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Solution/Data%20Extraction.jpg)
 
+## Data Cleaning
+The transformed dateset was cleaned by removing the null (empty) values so that data integrity was ensured to give a robust analysis.
 
-
+Dirty student Data                 |  Cleaned student Data
+:---------------------------------:|:--------------------------:
