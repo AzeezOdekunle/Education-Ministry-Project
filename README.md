@@ -31,4 +31,4 @@ The transformed dateset was cleaned by removing the null (empty) values so that 
 
 Dirty student Data                 |  Cleaned student Data
 :---------------------------------:|:---------------------------------------:
-![](Dirty_Student Data View)       |  ![](Cleaned_student data View.png)
+![](dirty_student_data.png)       |  ![](Cleaned_student data View.png)
