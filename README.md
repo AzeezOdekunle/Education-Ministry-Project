@@ -27,8 +27,9 @@ The dataset (in csv) was extracted and loaded into the Power BI desktop. This wa
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Solution/Data%20Extraction.jpg)
 
 ## Data Cleaning
-The transformed dateset was cleaned by removing the null (empty) values so that data integrity was ensured to give a robust analysis.
+The transformed dateset was cleaned by removing the null (empty) values so that data integrity was ensured to give a robust analysis. This can be seen below at the deactivation date and deactivation reason gave 100% valid compared to 65% of dirty data.
+
 
 Dirty student Data                 |  Cleaned student Data
 :---------------------------------:|:---------------------------------------:
-![](dirty_student_data.png)       |  ![](Cleaned_student data View.png)
+![](dirty_student_data.png)        | ![](cleaned_student_data.png)
