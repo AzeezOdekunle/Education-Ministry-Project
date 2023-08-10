@@ -42,11 +42,30 @@ The created relatioship established within the data for quick measures and calcu
 ![](model_view.png)
 
 
-## Data Analysis Expression (DAX) Measures.
+## Data Analysis Expression (DAX) and Measures.
 Based on some certain calculations which were not implicitly calculated by Power BI. I calculated some measures using DAX to give summary of KPI’s and visualize them for data driven decisions. Some of the measures that were explicitly calculated were:
 Grades A, B and C categories, total course entries, course program type, total credit earned e.t.c
 
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/DAX_A-.png)
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/dax_b%2B.png)
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/dax_c.png)
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/total_credit_earned.png)
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/total_program.png)
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DAX/total_student.png)
+
+
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Solution/Model%20and%20Measures%20Field.PNG.jpg)
+
+
+## Dashboard
+The visuals of the analysis is shown below which provided answers to the problem statement:
+
+
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Measures.PNG)
+
+
+
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DashBoard.PNG)
 
 
 
