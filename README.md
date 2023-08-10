@@ -28,6 +28,7 @@ The dataset (in csv) was extracted and loaded into the Power BI desktop. This wa
 
 ## Data Cleaning
 The transformed dateset was cleaned by removing the null (empty) values so that data integrity was ensured to give a robust analysis. This can be seen below at the deactivation date and deactivation reason gave 100% valid compared to 65% of dirty data.
+The null values was unchecked by clicking and hover the cursor on the filter funnel of the ‘Deactivation Date’ column.
 
 
 Dirty student Data                 | Null values                             | Cleaned student Data
@@ -36,6 +37,16 @@ Dirty student Data                 | Null values                             | C
 
 
 ## Data Modelling
-This the relationship been established by the data for quick measures and calculations. The cardinality generated is many to one, having single as cross filter direction. 
+The created relatioship established within the data for quick measures and calculations. The cardinality generated is many to one, having single as cross filter direction. 
+
+![](model_view.png)
+
+
+## Data Analysis Expression (DAX) Measures.
+Based on some certain calculations which were not implicitly calculated by Power BI. I calculated some measures using DAX to give summary of KPI’s and visualize them for data driven decisions. Some of the measures that were explicitly calculated were:
+Grades A, B and C categories, total course entries, course program type, total credit earned e.t.c
+
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Solution/Model%20and%20Measures%20Field.PNG.jpg)
+
 
 
