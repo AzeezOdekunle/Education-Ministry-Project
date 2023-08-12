@@ -64,6 +64,9 @@ The visuals of the analysis is shown below which provided answers to the problem
 
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Dashboard.jpg)
 
+
+
+
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Dashboard_2.PNG)
 
 
@@ -74,6 +77,13 @@ The visuals of the analysis is shown below which provided answers to the problem
 
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Measures.PNG)
 
+
+## Conclusion
+Most students were enrolled in the second quarter (June) of the year. This period is the time where most of the courses in Michigan State (MI) open their applications for the new intake, which contributed to the higher graduation rate of students in the the beginning of the new year (depending on the course of study). 
+
+For the Washington State (WA), their massive enrollment takes place in the first two months of the year (January and February) and July having the lowest number of enrolled students, likewise in the Michigan State (MI). They have most of their graduates in the beginning of the year as well. They run more of the yearly enrollment basis.  
+
+In the Ohio State (OH)
 
 
 
