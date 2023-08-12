@@ -61,11 +61,19 @@ Grades A, B and C categories, total course entries, course program type, total c
 The visuals of the analysis is shown below which provided answers to the problem statement:
 
 
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Dashboard.jpg)
+
+![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Dashboard_2.PNG)
+
+
+
+
+
+
+
 ![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/Measures.PNG)
 
 
-
-![](https://github.com/AzeezOdekunle/Education-Ministry-Project/blob/main/DashBoard.PNG)
 
 
 
