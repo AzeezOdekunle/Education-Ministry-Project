@@ -13,7 +13,9 @@ The following Power BI was incoporated:
 - Microsoft Power BI 
 - Data Modelling
 - DAX
+- Explicit Measures
 - Building Dashboard
+- Problem Solving
 
 ## Problem Statement
 1. Monthly Student Enrollments by State
