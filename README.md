@@ -5,9 +5,9 @@ They generate data on various aspects of the education system, such as enrollmen
 This project was done using a Power BI desktop for the Analysis, Modelling and Visualization.
 ## About the dataset
 The dataset contains 2 tables, in CSV format:
-•	The Student Data table contains information on all 7,784 students from a Ministry of Education in the three States; Ohio, Washington and Michigan.
+-	The Student Data table contains information on all 7,784 students from a Ministry of Education in the three States; Ohio, Washington and Michigan.
 Each record represents one student, and contains about their studentUID, postal code, program type, enrollment date, deactivation date and deactivation reason.
-•	The Course Data table contains complementary information about the students courses such as the course name, credit earned, grade earned and completion date.
+-	The Course Data table contains complementary information about the students courses such as the course name, credit earned, grade earned and completion date.
 
 ## Project Description
 In this Module's Scenario, I have been tasked by senior leadership of exams and records department of the school to create a suite of reports that are dependent on data store by HR in an excel document. The Goal of this project is to track students who dropped out of High school and are now Re-enrolled into the program. 
